@@ -1,0 +1,6 @@
+#Length of the string without len(str)
+string="gracy"
+count=0
+for i in string:
+    count+=1
+print(count)
